@@ -48,6 +48,7 @@ const TextInsertion: React.FC<TextInsertionProps> = (props: TextInsertionProps) 
       <Field className={styles.instructions}>Click the button to insert text.</Field>
       <Button appearance="primary" disabled={false} size="large" onClick={handleTextInsertion}>
         Insert text
+        {/* inser text inside the body */}
       </Button>
     </div>
   );
