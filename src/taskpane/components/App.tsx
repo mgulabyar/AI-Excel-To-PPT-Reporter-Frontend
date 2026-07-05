@@ -261,7 +261,7 @@ const App: React.FC = () => {
                 </Box>
               )}
 
-              {/* TAB 2: CORE METRICS (Vertical Column) */}
+              {/* TAB 2: CORE METRICS  */}
               {tabValue === 1 && (
                 <Stack spacing={1.5}>
                   {report.kpis.map((kpi, i) => (
