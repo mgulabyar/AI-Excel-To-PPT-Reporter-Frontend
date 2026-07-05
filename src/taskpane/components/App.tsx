@@ -24,7 +24,6 @@ import {
 } from "@mui/icons-material";
 import axios from "axios";
 
-// Interfaces
 interface KPI {
   label: string;
   value: string;
