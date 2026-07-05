@@ -302,7 +302,7 @@ const App: React.FC = () => {
         )}
       </Box>
 
-      {/* FOO */}
+      {/* FO */}
       <Box sx={{ p: 1, textAlign: "center", borderTop: "1px solid #1e293b" }}>
         <Typography variant="caption" sx={{ color: "#334155", fontSize: "9px", fontWeight: 800 }}>
           ANALYSIS ENGINE NODE 8009
