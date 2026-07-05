@@ -5,7 +5,7 @@ export interface HeroListItem {
   icon: React.JSX.Element;
   primaryText: string;
 }
-
+// expert interface HeroListItem
 export interface HeroListProps {
   message: string;
   items: HeroListItem[];
