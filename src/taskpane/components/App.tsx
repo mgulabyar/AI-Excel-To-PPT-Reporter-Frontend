@@ -167,7 +167,6 @@ const App: React.FC = () => {
         {report && (
           <Fade in={true}>
             <Box sx={{ mt: 3 }}>
-              {/* 3. TABS NAVIGATION */}
               <Tabs
                 value={tabValue}
                 onChange={(_, v) => setTabValue(v)}
