@@ -191,7 +191,6 @@ const App: React.FC = () => {
                 />
               </Tabs>
 
-              {/* TAB 1: SUMMARY & RECOMMENDATIONS */}
               {tabValue === 0 && (
                 <Box>
                   <Card
