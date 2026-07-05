@@ -51,7 +51,7 @@ const App: React.FC = () => {
         data_summary: dataSummary,
       });
       setReport(res.data.report);
-      setTabValue(0); // Reset 
+      setTabValue(0);
     } catch (e) {
       alert("Error connecting to Engine 8009");
     }
