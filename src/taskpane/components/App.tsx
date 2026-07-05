@@ -91,7 +91,6 @@ const App: React.FC = () => {
         color: "#f8fafc",
       }}
     >
-      {/* 1. HEADER */}
       <Paper
         elevation={0}
         sx={{
