@@ -113,7 +113,6 @@ const App: React.FC = () => {
       </Paper>
 
       <Box sx={{ p: 2, flexGrow: 1, overflowY: "auto" }}>
-        {/* 2. INPUT AREA */}
         <Typography
           variant="caption"
           fontWeight={900}
